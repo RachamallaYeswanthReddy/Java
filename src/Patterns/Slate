@@ -1,0 +1,26 @@
+****  => line -1 contains 4 stars
+***   => line -2 contains 3 stars
+**    => line -3 contains 2 stars
+*     => line -4 contains 1 stars
+for (int line = 0; line < n; line++) {
+     for (int stars = n; stars >= line + 1; stars--) {
+          System.out.print("*");
+     }
+     System.out.print("\n");
+}
+
+1       => lines - 1
+12      => lines - 2
+123     => lines - 3
+1234    => lines - 4
+
+for (int line = 1; line <= n; line++) {
+     for (int num = 1; num <= line; num++) {
+          System.out.print(num);
+         }
+     System.out.print("\n");
+}
+A       => lines - 1 => 1 char
+BC      => lines - 2 => 2 char
+DEF     => lines - 3 => 3 char
+GHIJ    => lines - 4 => 4 char
