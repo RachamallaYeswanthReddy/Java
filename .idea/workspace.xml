@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef53c6d2-64d2-4860-a740-85c4b4a4a6d3" name="Changes" comment="Day-2">
-      <change afterPath="$PROJECT_DIR$/src/Fuctions/BinomialCoefficient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fuctions/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fuctions/FindProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fuctions/OverLoading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fuctions/PrimeOrNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fuctions/Syntax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fuctions/callbyvalue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/Slate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ef53c6d2-64d2-4860-a740-85c4b4a4a6d3" name="Changes" comment="Day-3">
+      <change afterPath="$PROJECT_DIR$/src/Fuctions/PrimeinRange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Patterns/StarPatterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/StarPatterns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fuctions/PrimeOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fuctions/PrimeOrNot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +58,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Fuctions" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\SAI\JAVA\Projects\Java\src" />
     </key>
@@ -116,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697186975944</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Day-3">
+      <option name="closed" value="true" />
+      <created>1697528381982</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697528381982</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +137,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Day-1" />
     <MESSAGE value="Day-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day-2" />
+    <MESSAGE value="Day-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day-3" />
   </component>
 </project>

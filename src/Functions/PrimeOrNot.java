@@ -1,4 +1,4 @@
-package Fuctions;
+package Functions;
 
 public class PrimeOrNot {
     public static boolean prime(int n){
@@ -9,6 +9,7 @@ public class PrimeOrNot {
                 break;
             }
         }
+
         return isPrime;
     }
     public static void main(String[] args) {
@@ -16,6 +17,5 @@ public class PrimeOrNot {
         System.out.println(prime(94));
         System.out.println(prime(323));
         System.out.println(prime(111));
-
     }
 }
