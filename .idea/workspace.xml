@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef53c6d2-64d2-4860-a740-85c4b4a4a6d3" name="Changes" comment="Day-3">
-      <change afterPath="$PROJECT_DIR$/src/Fuctions/PrimeinRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions/Problems/BinToDec.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fuctions/PrimeOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fuctions/PrimeOrNot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Functions/BinomialCoefficient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functions/Problems/BinomialCoefficient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Functions/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functions/Problems/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Functions/FindProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functions/Problems/FindProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Functions/PrimeOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functions/Problems/PrimeOrNot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Functions/PrimeinRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functions/Problems/PrimeinRange.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697528381982</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Day-3">
+      <option name="closed" value="true" />
+      <created>1697529134611</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697529134611</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

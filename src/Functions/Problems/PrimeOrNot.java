@@ -1,4 +1,4 @@
-package Functions;
+package Functions.Problems;
 
 public class PrimeOrNot {
     public static boolean prime(int n){

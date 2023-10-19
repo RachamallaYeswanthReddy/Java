@@ -1,4 +1,4 @@
-package Functions;
+package Functions.Problems;
 
 import java.util.ArrayList;
 import java.util.List;
